@@ -1,6 +1,9 @@
 # OpenAI-API-GPT-Chat-Vanilla-Javascript-Example
 
-A very simple vanilla Javascript app to demostrate the power of OpenAI Chat GPT API.
+Chat GPT Clone! A very simple vanilla Javascript app to demostrate the power of OpenAI Chat GPT API.
+
+### ScreenShot
+![Edwin-GPT-Clone](https://user-images.githubusercontent.com/30946443/234119201-4c3d6162-1077-438f-a5c9-937df0a62fc6.png)
 
 ## Installation
 
